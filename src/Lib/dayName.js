@@ -1,0 +1,1 @@
+export const dayname = ["Paz", "Pzt", "Sal", "Çar", "Per", "Cum", "Cmt"];
